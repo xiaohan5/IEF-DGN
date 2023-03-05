@@ -1,0 +1,14 @@
+embedding_size: 100
+layer_norm_eps: 1e-12
+prototype_size: 50
+tau: 0.1
+his_interest_size: 3
+Dlr: 1
+G1lr: 1
+G2lr: 1
+gama: 0.1
+dropout_prob: 0.3
+loss_type: 'CE'
+sess_dropout: 0.2
+item_dropout: 0.2
+temperature: 0.07
