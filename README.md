@@ -1,15 +1,11 @@
 # IEF-DGN
 
-This is the official PyTorch implementation for the [paper](https://arxiv.org/abs/2204.11067):
+This is the official PyTorch implementation for the paper:
 > Zhihao Han. Interest-Evolution-Framework-with-Delta-Generative-Network-for-Session-based-Recommendation.
 
 ## Overview
 
 In this work, we described IEF-DGN -- a candidate generation system that was designed as part of our ads multistage ranking system. Firstly, we proposed Interest-Evolution Framework with Delta Generative Network(IEF-DGN). Next, we design two intention generators for producing virtual items utilising multiple concepts. Finally, taking into account of item embeddings in interaction sequences, we propose the interest evolving matrix to capture interest evolving process.
-
-<div  align="center"> 
-<img src='asset/abs.png' width="50%">
-</div>
 
 ## Requirements
 
